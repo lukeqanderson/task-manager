@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-manager/static/css/main.b8295296.css",
+    "main.js": "/task-manager/static/js/main.26784c92.js",
+    "static/js/787.d2997585.chunk.js": "/task-manager/static/js/787.d2997585.chunk.js",
+    "index.html": "/task-manager/index.html",
+    "main.b8295296.css.map": "/task-manager/static/css/main.b8295296.css.map",
+    "main.26784c92.js.map": "/task-manager/static/js/main.26784c92.js.map",
+    "787.d2997585.chunk.js.map": "/task-manager/static/js/787.d2997585.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8295296.css",
+    "static/js/main.26784c92.js"
+  ]
+}
